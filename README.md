@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexCayd
-- 👀 I’m interest crear proyectos que ayuden en varios aspectos de la vida cotidiana para las personas
-- 🌱 I’m currently learning a hacer bases de datos en MYSQL y programar en distintos lenguajes
+- 👀 I’m interest in transforming the web as part of a technological evolution focused on the democratization of technology
+- 🌱 I’m currently learning React and Laravel as fullstack frameworks
 
 <!---
 AlexCayd/AlexCayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
